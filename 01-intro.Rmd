@@ -1,0 +1,39 @@
+# Introduction {#intro}
+
+## Welcome
+
+## Brief history of bioinformatics
+
+### Protein structure wave
+
+### Gene expression wave
+
+### Genome sequencing wave
+
+### High throughput sequencing
+
+### Big data challenge from sequencing
+
+
+## Should I take this course?
+
+### Bioinformatics vs computational biology
+
+### Levels of bioinformatics
+
+### Is this class for me?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuL-Te1F6yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### All biology is computational biology
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2waqBBkIm3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Course information
+
+### Course organization and material
+
+### Course instructor and TAs
+
+### Homework and grading
+
+### Lab and Odyssey sign up

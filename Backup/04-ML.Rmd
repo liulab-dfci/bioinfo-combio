@@ -1,0 +1,7 @@
+# Machine learning classification methods {#machine-learn}
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Example one
+
+## Example two

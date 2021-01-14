@@ -1,0 +1,3 @@
+# RNA-seq analysis {#rnaseq}
+
+We describe our methods in this chapter.
