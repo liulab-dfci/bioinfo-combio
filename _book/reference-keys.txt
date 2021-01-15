@@ -1,3 +1,4 @@
+course-information
 intro
 welcome
 brief-history-of-bioinformatics
@@ -11,7 +12,7 @@ bioinformatics-vs-computational-biology
 levels-of-bioinformatics
 is-this-class-for-me
 all-biology-is-computational-biology
-course-information
+course-information-1
 course-organization-and-material
 course-instructor-and-tas
 homework-and-grading

@@ -7,3 +7,5 @@ site: bookdown::bookdown_site
 documentclass: book
 description: "This is the course material for STAT115/215 BIO/BST282 Introduction to Bioinformatics and Computational Biology at Harvard University."
 ---
+
+# Course information
