@@ -1,11 +1,28 @@
 --- 
 title: "Introduction to Bioinformatics and Computational Biology"
-authors: "Xiaole Shirley Liu and Joshua Starmer" 
 date: "`r Sys.Date()`"
 output: bookdown::gitbook
 site: bookdown::bookdown_site
 documentclass: book
-description: "This is the course material for STAT115/215 BIO/BST282 Introduction to Bioinformatics and Computational Biology at Harvard University."
 ---
 
 # Course information
+
+This is the course material for STAT115/215 BIO/BST282 at Harvard University. 
+
+## Contributors 
+
+Xiaole Shirley Liu (lead instructor)  
+Joshua Starmer  
+Martin Hemberg  
+Ting Wang  
+Feng Yue  
+Ming Tang  
+etc.
+
+## Supporting staff 
+
+Jack Kang  
+Scarlett Ge  
+etc.
+
