@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Introduction to Bioinformatics and Computational Biology</title>
-  <meta name="description" content="Introduction to Bioinformatics and Computational Biology" />
+  <title>Chapter 3 High throughput sequencing | Introduction to Bioinformatics and Computational Biology</title>
+  <meta name="description" content="Chapter 3 High throughput sequencing | Introduction to Bioinformatics and Computational Biology" />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Introduction to Bioinformatics and Computational Biology" />
+  <meta property="og:title" content="Chapter 3 High throughput sequencing | Introduction to Bioinformatics and Computational Biology" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Introduction to Bioinformatics and Computational Biology" />
+  <meta name="twitter:title" content="Chapter 3 High throughput sequencing | Introduction to Bioinformatics and Computational Biology" />
   
   
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
+<link rel="prev" href="intro.html"/>
 
-<link rel="next" href="intro.html"/>
 <script src="libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -129,28 +129,53 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Introduction to Bioinformatics and Computational Biology</h1>
-<p class="date"><em>2021-01-17</em></p>
+<div id="ngs" class="section level1" number="3">
+<h1><span class="header-section-number">Chapter 3</span> High throughput sequencing</h1>
+<div id="three-generations-of-sequencing-technologies" class="section level2" number="3.1">
+<h2><span class="header-section-number">3.1</span> Three generations of sequencing technologies</h2>
+<p>First generation sequencing is Sanger sequencing. It is the technology that was used to obtain the first human genome sequence.</p>
+<p>Second generation sequencing is also called next generation sequencing (NGS) and is the start of high throughput sequencing. It is what scientists use most often nowadays, and Illumina is the market leader. Most of the rest of this course will cover data analysis using second generation sequencing.</p>
+<p>Third generation sequencing is single-molecule sequencing. There are many new technologies still under active development, although none has reached market penetration.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fVExBR1x4QU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
-<div id="course-information" class="section level1" number="1">
-<h1><span class="header-section-number">Chapter 1</span> Course information</h1>
-<p>This is the course material for STAT115/215 BIO/BST282 at Harvard University.</p>
-<div id="contributors" class="section level2" number="1.1">
-<h2><span class="header-section-number">1.1</span> Contributors</h2>
-<p>Xiaole Shirley Liu (lead instructor)<br />
-Joshua Starmer<br />
-Martin Hemberg<br />
-Ting Wang<br />
-Feng Yue<br />
-Ming Tang<br />
-etc.</p>
+<div id="fastq-and-fastqc" class="section level2" number="3.2">
+<h2><span class="header-section-number">3.2</span> FASTQ and FASTQC</h2>
+<p>NGS generates FASTQ files. FASTQC is an computational approach to evaluate the quality of your NGS data.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2QAGtuvq8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
-<div id="supporting-staff" class="section level2" number="1.2">
-<h2><span class="header-section-number">1.2</span> Supporting staff</h2>
-<p>Jack Kang<br />
-Scarlett Ge<br />
-etc.</p>
+<div id="early-sequence-alignment-1-with-1" class="section level2" number="3.3">
+<h2><span class="header-section-number">3.3</span> Early sequence alignment (1 with 1)</h2>
+<p>In the early days (1970s), scientists were not worried about having to align too many sequences. They wanted to find the best alignment between two sequences. Many bioinformatics courses start with learning these, although it is not the main focus of our course. We included two videos in case you are interested.</p>
+<p>The Needlemen-Wunsch algorithm is the earliest algorithm to find the alignment between two sequences and score their similarity.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipp-pNRIp4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p>When two sequences are long, and only a portion of them can align well with each other, the Smith-Waterman algorithm can find the best local sequence alignment. It is still considered the best alignment approach, although it is slow.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lu9ScxSejSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="sequence-search-algorihtms-1-with-many" class="section level2" number="3.4">
+<h2><span class="header-section-number">3.4</span> Sequence search algorihtms (1 with many)</h2>
+<p>With more and more sequences available in the public in the 1980s, scientists were interested in finding whether their newly sequenced string has been sequenced before in the public database. Therefore, the fast search algorithm BLAST was developed, using one sequence as the query to find similar sequences from a database.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge00nXqIlow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="borrow-wheeler-aligner-many-with-many" class="section level2" number="3.5">
+<h2><span class="header-section-number">3.5</span> Borrow-Wheeler Aligner (many with many)</h2>
+<p>With NGS, scientists need much faster search (aka mapping) algorithms in order to align the millions of sequences to the reference genome. The current best algorithm is called Borrow-Wheeler Aligner or BWA.</p>
+<p>In order to understand BWA, we first need to introduce Borrows-Wheeler transformation and LF mapping</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gqM3j2IRQH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p>The basic idea of Borrows-Wheeler alignment</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RXjc4wDV9BE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="alignment-output" class="section level2" number="3.6">
+<h2><span class="header-section-number">3.6</span> Alignment output</h2>
+<p>NGS raw data is in FASTQ. Alignment gives you SAM (alignment) or BAM (binary version of SAM) files which contain the sequence information in FASTQ and the mapping locations. BED file is the simpliest, although there is information loss.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZG6t_NobFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 </div>
 </div>
@@ -159,8 +184,8 @@ etc.</p>
           </div>
         </div>
       </div>
+<a href="intro.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
-<a href="intro.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

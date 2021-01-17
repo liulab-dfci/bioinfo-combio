@@ -19,3 +19,10 @@ course-organization-and-material
 course-instructor-and-tas
 homework-and-grading
 lab-and-odyssey-sign-up
+ngs
+three-generations-of-sequencing-technologies
+fastq-and-fastqc
+early-sequence-alignment-1-with-1
+sequence-search-algorihtms-1-with-many
+borrow-wheeler-aligner-many-with-many
+alignment-output
