@@ -18,7 +18,7 @@ NGS generates FASTQ files. FASTQC is an computational approach to evaluate the q
 
 ## Early sequence alignment (1 with 1)
 
-In the early days (1970s), scientists were not worried about having to align too many sequences. They wanted to find the best alignment between two sequences. Many bioinformatics courses start with learning these, although it is not the main focus of our course. We included two videos in case you are interested.
+In the early days (1970s), scientists were not worried about having to align too many sequences. They wanted to find the best alignment between two sequences. Many bioinformatics courses start with learning these, although it is not the main focus of our course. We included two optional videos in case you are interested.
 
 The Needlemen-Wunsch algorithm is the earliest algorithm to find the alignment between two sequences and score their similarity. 
 
@@ -38,11 +38,11 @@ With more and more sequences available in the public in the 1980s, scientists we
 
 With NGS, scientists need much faster search (aka mapping) algorithms in order to align the millions of sequences to the reference genome. The current best algorithm is called Borrow-Wheeler Aligner or BWA. 
 
-In order to understand BWA, we first need to introduce Borrows-Wheeler transformation and LF mapping
+In order to understand BWA, we first need to introduce Borrows-Wheeler transformation and LF mapping.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqM3j2IRQH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The basic idea of Borrows-Wheeler alignment
+The basic idea of Borrows-Wheeler alignment. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXjc4wDV9BE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
