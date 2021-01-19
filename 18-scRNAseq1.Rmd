@@ -1,0 +1,33 @@
+# Single-cell RNA-seq (1) {#scrna1}
+
+## Intro to scRNA-seq
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFG_SKpM5OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Smart, Droplet, microwell, SCI-based
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFG_SKpM5OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## QC
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxLgmB0xCT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Normalization 
+
+
+
+## Imputation
+
+
+
+## Dimension reduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Clustering
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## t-SNE and UMAP 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

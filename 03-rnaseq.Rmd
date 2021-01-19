@@ -1,0 +1,21 @@
+# RNA-seq quantification {#rnaseq}
+
+## RNA-seq & RNA QC (DV200)
+
+## RNA-seq replicates and study design
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ECKDDaUyQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## STAR and PE BAM file
+
+## RNA-seq QC
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AmoDj_ysY8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## FPKM vs TPM
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLfDw8I_SJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## RSEM & Salmon
+
+

@@ -1,0 +1,27 @@
+# GSEA, Clustering {#gsea}
+
+## GSEA
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZja6aeTxpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Heatmap and clustering quality
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISWtDR1vaHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## H-cluster
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISWtDR1vaHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## K-means
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLWiUVO1ZYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Pick K and consensus clustering
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tAsvROMR8D8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Batch effect removal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXAA_CcQMek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

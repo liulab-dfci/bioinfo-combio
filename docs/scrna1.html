@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 2 Introduction | Introduction to Bioinformatics and Computational Biology</title>
-  <meta name="description" content="Chapter 2 Introduction | Introduction to Bioinformatics and Computational Biology" />
+  <title>Chapter 19 Single-cell RNA-seq (1) | Introduction to Bioinformatics and Computational Biology</title>
+  <meta name="description" content="Chapter 19 Single-cell RNA-seq (1) | Introduction to Bioinformatics and Computational Biology" />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 2 Introduction | Introduction to Bioinformatics and Computational Biology" />
+  <meta property="og:title" content="Chapter 19 Single-cell RNA-seq (1) | Introduction to Bioinformatics and Computational Biology" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 2 Introduction | Introduction to Bioinformatics and Computational Biology" />
+  <meta name="twitter:title" content="Chapter 19 Single-cell RNA-seq (1) | Introduction to Bioinformatics and Computational Biology" />
   
   
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="index.html"/>
-<link rel="next" href="ngs.html"/>
+<link rel="prev" href="gwas2.html"/>
+<link rel="next" href="scrna2.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -319,63 +319,44 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="intro" class="section level1">
-<h1><span class="header-section-number">Chapter 2</span> Introduction</h1>
-<div id="welcome" class="section level2">
-<h2><span class="header-section-number">2.1</span> Welcome</h2>
-</div>
-<div id="brief-history-of-bioinformatics" class="section level2">
-<h2><span class="header-section-number">2.2</span> Brief history of bioinformatics</h2>
-<div id="protein-structure-wave" class="section level3">
-<h3><span class="header-section-number">2.2.1</span> Protein structure wave</h3>
-</div>
-<div id="gene-expression-wave" class="section level3">
-<h3><span class="header-section-number">2.2.2</span> Gene expression wave</h3>
-</div>
-<div id="genome-sequencing-wave" class="section level3">
-<h3><span class="header-section-number">2.2.3</span> Genome sequencing wave</h3>
-</div>
-<div id="high-throughput-sequencing" class="section level3">
-<h3><span class="header-section-number">2.2.4</span> High throughput sequencing</h3>
-</div>
-<div id="big-data-challenge-from-sequencing" class="section level3">
-<h3><span class="header-section-number">2.2.5</span> Big data challenge from sequencing</h3>
-</div>
-</div>
-<div id="should-i-take-this-course" class="section level2">
-<h2><span class="header-section-number">2.3</span> Should I take this course?</h2>
-<div id="bioinformatics-vs-computational-biology" class="section level3">
-<h3><span class="header-section-number">2.3.1</span> Bioinformatics vs computational biology</h3>
-</div>
-<div id="levels-of-bioinformatics" class="section level3">
-<h3><span class="header-section-number">2.3.2</span> Levels of bioinformatics</h3>
-</div>
-<div id="is-this-class-for-me" class="section level3">
-<h3><span class="header-section-number">2.3.3</span> Is this class for me?</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WuL-Te1F6yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="scrna1" class="section level1">
+<h1><span class="header-section-number">Chapter 19</span> Single-cell RNA-seq (1)</h1>
+<div id="intro-to-scrna-seq" class="section level2">
+<h2><span class="header-section-number">19.1</span> Intro to scRNA-seq</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFG_SKpM5OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="all-biology-is-computational-biology" class="section level3">
-<h3><span class="header-section-number">2.3.4</span> All biology is computational biology</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2waqBBkIm3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="smart-droplet-microwell-sci-based" class="section level2">
+<h2><span class="header-section-number">19.2</span> Smart, Droplet, microwell, SCI-based</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFG_SKpM5OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
+<div id="qc" class="section level2">
+<h2><span class="header-section-number">19.3</span> QC</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxLgmB0xCT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
-<div id="course-information-1" class="section level2">
-<h2><span class="header-section-number">2.4</span> Course information</h2>
-<div id="course-organization-and-material" class="section level3">
-<h3><span class="header-section-number">2.4.1</span> Course organization and material</h3>
+<div id="normalization" class="section level2">
+<h2><span class="header-section-number">19.4</span> Normalization</h2>
 </div>
-<div id="course-instructor-and-tas" class="section level3">
-<h3><span class="header-section-number">2.4.2</span> Course instructor and TAs</h3>
+<div id="imputation" class="section level2">
+<h2><span class="header-section-number">19.5</span> Imputation</h2>
 </div>
-<div id="homework-and-grading" class="section level3">
-<h3><span class="header-section-number">2.4.3</span> Homework and grading</h3>
+<div id="dimension-reduction" class="section level2">
+<h2><span class="header-section-number">19.6</span> Dimension reduction</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
-<div id="lab-and-odyssey-sign-up" class="section level3">
-<h3><span class="header-section-number">2.4.4</span> Lab and Odyssey sign up</h3>
+<div id="clustering" class="section level2">
+<h2><span class="header-section-number">19.7</span> Clustering</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="t-sne-and-umap" class="section level2">
+<h2><span class="header-section-number">19.8</span> t-SNE and UMAP</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
-</div>
 </div>
 </div>
             </section>
@@ -383,8 +364,8 @@
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="ngs.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="gwas2.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="scrna2.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

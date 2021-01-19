@@ -1,0 +1,33 @@
+# Histone Modifications , Chromatin Accessibility {#hist}
+
+## Nucleosome positions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoWGTkaj8e8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Histone modification
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhO0gXT5McA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Promoters (bivalent)
+
+
+
+## Genes (K36me3, new genes)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTzui063ZYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Enhancers (K27ac)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UNAUcAojgh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Super-enhancers
+
+
+
+## DNase-seq
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsb4FbsP48Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## ATAC-seq
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0SgvSPyYEHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,22 @@
+# Hidden Markov Model {#hmm}
+
+## Intro to HMM
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b2Nymrz4Cqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Pb1: Forward & backward procedure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSqa68sfZtQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Pb2: Viterbi algorithm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkiFrMC48Z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Pb3: Parameter estimation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k04OMqk9iPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## HMM application
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k04OMqk9iPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

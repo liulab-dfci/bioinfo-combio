@@ -1,0 +1,9 @@
+# Module I Review {#m1re}
+
+## Gene Expression Module Summary
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wChm8iJ73Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gene Expression Analysis Scenarios
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5VUTPdHzuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
