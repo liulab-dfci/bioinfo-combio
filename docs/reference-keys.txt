@@ -1,6 +1,5 @@
 course-information
 contributors
-supporting-staff
 intro
 welcome
 brief-history-of-bioinformatics
