@@ -51,3 +51,9 @@ The basic idea of Borrows-Wheeler alignment
 NGS raw data is in FASTQ. Alignment gives you SAM (alignment) or BAM (binary version of SAM) files which contain the sequence information in FASTQ and the mapping locations. BED file is the simpliest, although there is information loss. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nZG6t_NobFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## BWA Tutorial
+
+This BWA tutorial is made by students of past years.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SSNckRMAcp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
