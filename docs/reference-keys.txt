@@ -19,6 +19,7 @@ early-sequence-alignment-1-with-1
 sequence-search-algorihtms-1-with-many
 borrow-wheeler-aligner-many-with-many
 alignment-output
+bwa-tutorial
 rnaseq
 rna-seq-rna-qc-dv200
 rna-seq-replicates-and-study-design
