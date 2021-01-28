@@ -16,13 +16,14 @@ Xiaole Shirley Liu (lead instructor)
 Joshua Starmer  
 Martin Hemberg  
 Ting Wang  
-Feng Yue  
+Feng Yue   
+
 Ming Tang  
-etc.
-
-## Supporting staff 
-
+Yang Liu  
 Jack Kang  
 Scarlett Ge  
-etc.
+Jiazhen Rong  
+Phillip Nicol  
+Maartin De Vries  
 
+We thank many colleagues in the community, who helped Dr. Liu in prepare the STAT115/215 BIO/BST282 course over the years. Some of the lecture slides acknowledged their contributions, but these contributors are not individually acknowledged here.

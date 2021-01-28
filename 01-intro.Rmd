@@ -1,39 +1,31 @@
 # Introduction {#intro}
 
-## Welcome
-
 ## Brief history of bioinformatics
 
 ### Protein structure wave
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvtPXZHNoCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Gene expression wave
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePRFyfV14IM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Genome sequencing wave
-
-### High throughput sequencing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wSOJAkPZlE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Big data challenge from sequencing
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yxtGSPcX_7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Should I take this course?
 
 ### Bioinformatics vs computational biology
-
-### Levels of bioinformatics
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4yiLcNub04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Is this class for me?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WuL-Te1F6yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### All biology is computational biology
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2waqBBkIm3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOpJ_PkaENY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Course information
 
-### Course organization and material
+### Logistics
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlnsWlvbUJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Course instructor and TAs
-
-### Homework and grading
-
-### Lab and Odyssey sign up
+### X Shirley Liu lab introduction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASMIn7q0Mxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
