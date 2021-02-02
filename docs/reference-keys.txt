@@ -33,6 +33,9 @@ rna-seq-qc
 rna-seq-expression-index
 rsem-and-salmon
 rna-seq-read-distribution
+star-tutorial
+salmon-tutorial
+kallisto-tutorial
 de
 rna-seq-nb-distribution
 deseq2-and-variance-stabilization
