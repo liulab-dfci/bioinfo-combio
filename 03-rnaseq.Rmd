@@ -1,6 +1,7 @@
 # RNA-seq Quantification {#rnaseq}
 
 ## Introduction to RNA-seq experiment
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0mNPvOVxqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## RNA quality control and experimental design
@@ -26,4 +27,3 @@
 ## RNA-seq read distribution
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVcyJcxWUzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

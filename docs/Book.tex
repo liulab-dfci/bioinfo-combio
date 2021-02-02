@@ -1,41 +1,54 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[]{book}
+\documentclass[
+]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={Introduction to Bioinformatics and Computational Biology},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
+  pdftitle={Introduction to Bioinformatics and Computational Biology},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
-% Fix footnotes in tables (requires footnote package)
-\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -45,32 +58,21 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
+% Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
 \title{Introduction to Bioinformatics and Computational Biology}
 \author{}
-\date{\vspace{-2.5em}2021-01-18}
+\date{\vspace{-2.5em}2021-01-28}
 
 \begin{document}
 \maketitle
@@ -91,22 +93,20 @@ Xiaole Shirley Liu (lead instructor)\\
 Joshua Starmer\\
 Martin Hemberg\\
 Ting Wang\\
-Feng Yue\\
+Feng Yue
+
 Ming Tang\\
-etc.
-
-\hypertarget{supporting-staff}{%
-\section{Supporting staff}\label{supporting-staff}}
-
+Yang Liu\\
 Jack Kang\\
 Scarlett Ge\\
-etc.
+Jiazhen Rong\\
+Phillip Nicol\\
+Maartin De Vries
+
+We thank many colleagues in the community, who helped Dr.~Liu in prepare the STAT115/215 BIO/BST282 course over the years. Some of the lecture slides acknowledged their contributions, but these contributors are not individually acknowledged here.
 
 \hypertarget{intro}{%
 \chapter{Introduction}\label{intro}}
-
-\hypertarget{welcome}{%
-\section{Welcome}\label{welcome}}
 
 \hypertarget{brief-history-of-bioinformatics}{%
 \section{Brief history of bioinformatics}\label{brief-history-of-bioinformatics}}
@@ -120,9 +120,6 @@ etc.
 \hypertarget{genome-sequencing-wave}{%
 \subsection{Genome sequencing wave}\label{genome-sequencing-wave}}
 
-\hypertarget{high-throughput-sequencing}{%
-\subsection{High throughput sequencing}\label{high-throughput-sequencing}}
-
 \hypertarget{big-data-challenge-from-sequencing}{%
 \subsection{Big data challenge from sequencing}\label{big-data-challenge-from-sequencing}}
 
@@ -132,29 +129,17 @@ etc.
 \hypertarget{bioinformatics-vs-computational-biology}{%
 \subsection{Bioinformatics vs computational biology}\label{bioinformatics-vs-computational-biology}}
 
-\hypertarget{levels-of-bioinformatics}{%
-\subsection{Levels of bioinformatics}\label{levels-of-bioinformatics}}
-
 \hypertarget{is-this-class-for-me}{%
 \subsection{Is this class for me?}\label{is-this-class-for-me}}
-
-\hypertarget{all-biology-is-computational-biology}{%
-\subsection{All biology is computational biology}\label{all-biology-is-computational-biology}}
 
 \hypertarget{course-information-1}{%
 \section{Course information}\label{course-information-1}}
 
-\hypertarget{course-organization-and-material}{%
-\subsection{Course organization and material}\label{course-organization-and-material}}
+\hypertarget{logistics}{%
+\subsection{Logistics}\label{logistics}}
 
-\hypertarget{course-instructor-and-tas}{%
-\subsection{Course instructor and TAs}\label{course-instructor-and-tas}}
-
-\hypertarget{homework-and-grading}{%
-\subsection{Homework and grading}\label{homework-and-grading}}
-
-\hypertarget{lab-and-odyssey-sign-up}{%
-\subsection{Lab and Odyssey sign up}\label{lab-and-odyssey-sign-up}}
+\hypertarget{x-shirley-liu-lab-introduction}{%
+\subsection{X Shirley Liu lab introduction}\label{x-shirley-liu-lab-introduction}}
 
 \hypertarget{ngs}{%
 \chapter{High throughput sequencing}\label{ngs}}
@@ -200,6 +185,11 @@ The basic idea of Borrows-Wheeler alignment
 \section{Alignment output}\label{alignment-output}}
 
 NGS raw data is in FASTQ. Alignment gives you SAM (alignment) or BAM (binary version of SAM) files which contain the sequence information in FASTQ and the mapping locations. BED file is the simpliest, although there is information loss.
+
+\hypertarget{bwa-tutorial}{%
+\section{BWA Tutorial}\label{bwa-tutorial}}
+
+This BWA tutorial is made by students of past years.
 
 \hypertarget{rnaseq}{%
 \chapter{RNA-seq quantification}\label{rnaseq}}

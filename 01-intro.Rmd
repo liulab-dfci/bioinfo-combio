@@ -29,3 +29,17 @@
 
 ### X Shirley Liu lab introduction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ASMIn7q0Mxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lab 1
+
+### Introduction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBwpRHF2ZOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Introduction to R
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ki6XgsRYX-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Introduction to Bash
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GwWEzL0cLUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Getting started with Cannon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ggeo1axD1kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

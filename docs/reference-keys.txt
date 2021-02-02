@@ -12,6 +12,11 @@ is-this-class-for-me
 course-information-1
 logistics
 x-shirley-liu-lab-introduction
+lab-1
+introduction
+introduction-to-r
+introduction-to-bash
+getting-started-with-cannon
 ngs
 three-generations-of-sequencing-technologies
 fastq-and-fastqc
@@ -19,6 +24,7 @@ early-sequence-alignment-1-with-1
 sequence-search-algorihtms-1-with-many
 borrow-wheeler-aligner-many-with-many
 alignment-output
+bwa-tutorial
 rnaseq
 introduction-to-rna-seq-experiment
 rna-quality-control-and-experimental-design
