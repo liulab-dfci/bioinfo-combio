@@ -1,21 +1,29 @@
-# RNA-seq quantification {#rnaseq}
+# RNA-seq Quantification {#rnaseq}
 
-## RNA-seq & RNA QC (DV200)
+## Introduction to RNA-seq experiment
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0mNPvOVxqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## RNA-seq replicates and study design
+## RNA quality control and experimental design
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ECKDDaUyQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## STAR and PE BAM file
+## Alignment
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRmtkbYSnEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## RNA-seq QC
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AmoDj_ysY8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJhH3dSZt20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## FPKM vs TPM
+## RNA-seq expression index
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jLfDw8I_SJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTUrtCY2k-w?start=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## RSEM & Salmon
+## RSEM and Salmon
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQlTRr6oOjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## RNA-seq read distribution
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aVcyJcxWUzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

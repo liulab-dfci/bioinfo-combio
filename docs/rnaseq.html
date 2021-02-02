@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 4 RNA-seq quantification | Introduction to Bioinformatics and Computational Biology</title>
-  <meta name="description" content="Chapter 4 RNA-seq quantification | Introduction to Bioinformatics and Computational Biology" />
+  <title>Chapter 4 RNA-seq Quantification | Introduction to Bioinformatics and Computational Biology</title>
+  <meta name="description" content="Chapter 4 RNA-seq Quantification | Introduction to Bioinformatics and Computational Biology" />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 4 RNA-seq quantification | Introduction to Bioinformatics and Computational Biology" />
+  <meta property="og:title" content="Chapter 4 RNA-seq Quantification | Introduction to Bioinformatics and Computational Biology" />
   <meta property="og:type" content="book" />
   
   
@@ -16,14 +16,14 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 4 RNA-seq quantification | Introduction to Bioinformatics and Computational Biology" />
+  <meta name="twitter:title" content="Chapter 4 RNA-seq Quantification | Introduction to Bioinformatics and Computational Biology" />
   
   
   
 
 
 
-<meta name="date" content="2021-01-27" />
+<meta name="date" content="2021-02-02" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -102,14 +102,15 @@
 <li class="chapter" data-level="3.5" data-path="ngs.html"><a href="ngs.html#borrow-wheeler-aligner-many-with-many"><i class="fa fa-check"></i><b>3.5</b> Borrow-Wheeler Aligner (many with many)</a></li>
 <li class="chapter" data-level="3.6" data-path="ngs.html"><a href="ngs.html#alignment-output"><i class="fa fa-check"></i><b>3.6</b> Alignment output</a></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="rnaseq.html"><a href="rnaseq.html"><i class="fa fa-check"></i><b>4</b> RNA-seq quantification</a>
+<li class="chapter" data-level="4" data-path="rnaseq.html"><a href="rnaseq.html"><i class="fa fa-check"></i><b>4</b> RNA-seq Quantification</a>
 <ul>
-<li class="chapter" data-level="4.1" data-path="rnaseq.html"><a href="rnaseq.html#rna-seq-rna-qc-dv200"><i class="fa fa-check"></i><b>4.1</b> RNA-seq &amp; RNA QC (DV200)</a></li>
-<li class="chapter" data-level="4.2" data-path="rnaseq.html"><a href="rnaseq.html#rna-seq-replicates-and-study-design"><i class="fa fa-check"></i><b>4.2</b> RNA-seq replicates and study design</a></li>
-<li class="chapter" data-level="4.3" data-path="rnaseq.html"><a href="rnaseq.html#star-and-pe-bam-file"><i class="fa fa-check"></i><b>4.3</b> STAR and PE BAM file</a></li>
+<li class="chapter" data-level="4.1" data-path="rnaseq.html"><a href="rnaseq.html#introduction-to-rna-seq-experiment"><i class="fa fa-check"></i><b>4.1</b> Introduction to RNA-seq experiment</a></li>
+<li class="chapter" data-level="4.2" data-path="rnaseq.html"><a href="rnaseq.html#rna-quality-control-and-experimental-design"><i class="fa fa-check"></i><b>4.2</b> RNA quality control and experimental design</a></li>
+<li class="chapter" data-level="4.3" data-path="rnaseq.html"><a href="rnaseq.html#alignment"><i class="fa fa-check"></i><b>4.3</b> Alignment</a></li>
 <li class="chapter" data-level="4.4" data-path="rnaseq.html"><a href="rnaseq.html#rna-seq-qc"><i class="fa fa-check"></i><b>4.4</b> RNA-seq QC</a></li>
-<li class="chapter" data-level="4.5" data-path="rnaseq.html"><a href="rnaseq.html#fpkm-vs-tpm"><i class="fa fa-check"></i><b>4.5</b> FPKM vs TPM</a></li>
-<li class="chapter" data-level="4.6" data-path="rnaseq.html"><a href="rnaseq.html#rsem-salmon"><i class="fa fa-check"></i><b>4.6</b> RSEM &amp; Salmon</a></li>
+<li class="chapter" data-level="4.5" data-path="rnaseq.html"><a href="rnaseq.html#rna-seq-expression-index"><i class="fa fa-check"></i><b>4.5</b> RNA-seq expression index</a></li>
+<li class="chapter" data-level="4.6" data-path="rnaseq.html"><a href="rnaseq.html#rsem-and-salmon"><i class="fa fa-check"></i><b>4.6</b> RSEM and Salmon</a></li>
+<li class="chapter" data-level="4.7" data-path="rnaseq.html"><a href="rnaseq.html#rna-seq-read-distribution"><i class="fa fa-check"></i><b>4.7</b> RNA-seq read distribution</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="de.html"><a href="de.html"><i class="fa fa-check"></i><b>5</b> Differential expression, False discovery rate, Gene ontology</a>
 <ul>
@@ -346,30 +347,41 @@
 
             <section class="normal" id="section-">
 <div id="rnaseq" class="section level1" number="4">
-<h1><span class="header-section-number">Chapter 4</span> RNA-seq quantification</h1>
-<div id="rna-seq-rna-qc-dv200" class="section level2" number="4.1">
-<h2><span class="header-section-number">4.1</span> RNA-seq &amp; RNA QC (DV200)</h2>
+<h1><span class="header-section-number">Chapter 4</span> RNA-seq Quantification</h1>
+<div id="introduction-to-rna-seq-experiment" class="section level2" number="4.1">
+<h2><span class="header-section-number">4.1</span> Introduction to RNA-seq experiment</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0mNPvOVxqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
-<div id="rna-seq-replicates-and-study-design" class="section level2" number="4.2">
-<h2><span class="header-section-number">4.2</span> RNA-seq replicates and study design</h2>
+<div id="rna-quality-control-and-experimental-design" class="section level2" number="4.2">
+<h2><span class="header-section-number">4.2</span> RNA quality control and experimental design</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ECKDDaUyQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="star-and-pe-bam-file" class="section level2" number="4.3">
-<h2><span class="header-section-number">4.3</span> STAR and PE BAM file</h2>
+<div id="alignment" class="section level2" number="4.3">
+<h2><span class="header-section-number">4.3</span> Alignment</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRmtkbYSnEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
 <div id="rna-seq-qc" class="section level2" number="4.4">
 <h2><span class="header-section-number">4.4</span> RNA-seq QC</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AmoDj_ysY8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJhH3dSZt20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="fpkm-vs-tpm" class="section level2" number="4.5">
-<h2><span class="header-section-number">4.5</span> FPKM vs TPM</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jLfDw8I_SJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="rna-seq-expression-index" class="section level2" number="4.5">
+<h2><span class="header-section-number">4.5</span> RNA-seq expression index</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTUrtCY2k-w?start=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="rsem-salmon" class="section level2" number="4.6">
-<h2><span class="header-section-number">4.6</span> RSEM &amp; Salmon</h2>
+<div id="rsem-and-salmon" class="section level2" number="4.6">
+<h2><span class="header-section-number">4.6</span> RSEM and Salmon</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQlTRr6oOjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="rna-seq-read-distribution" class="section level2" number="4.7">
+<h2><span class="header-section-number">4.7</span> RNA-seq read distribution</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aVcyJcxWUzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 </div>
 </div>
