@@ -27,3 +27,12 @@
 ## RNA-seq read distribution
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVcyJcxWUzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## STAR tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbBS9o-4100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Salmon tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKfKPMKrwpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Kallisto tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjmWeiGopcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
