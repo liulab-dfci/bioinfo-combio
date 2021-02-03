@@ -45,8 +45,8 @@ gene-ontology-go-analysis
 gene-set-enrichent-analysis-gsea
 cluster
 heatmap-and-clustering-quality
-h-cluster
-k-means
+hierarchical-cluster
+k-means-cluster
 pick-k-and-consensus-clustering
 batch-effect-removal
 dr
