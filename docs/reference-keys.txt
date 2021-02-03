@@ -24,7 +24,6 @@ early-sequence-alignment-1-with-1
 sequence-search-algorihtms-1-with-many
 borrow-wheeler-aligner-many-with-many
 alignment-output
-bwa-tutorial
 rnaseq
 introduction-to-rna-seq-experiment
 rna-quality-control-and-experimental-design
