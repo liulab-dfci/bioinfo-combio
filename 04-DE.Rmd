@@ -1,0 +1,27 @@
+# Differential expression, FDR, GO, and GSEA {#de}
+
+## DESeq2 library normalization
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UFB993xufUU?start=14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## DESeq2 gene filtering
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi0JdrxRq5s?start=19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## DESeq2 variance stabilization
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYHTR1IxwBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Multiple hypotheses testing and False Discovery Rate
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtU_8UQVZM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gene Ontology (GO analysis)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5X934l9vY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gene Set Enrichent Analysis (GSEA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZja6aeTxpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
