@@ -1,12 +1,16 @@
 # Differential expression, FDR, GO, and GSEA {#de}
 
+**DESeq2** is a popular and accurate computational algorithm to detect differential gene expression from RNA-seq data. It includes many elegant quantitative considerations, such as:  
+
+- Normalize the gene read counts by library size and composition  
+- Model gene read counts with negative binomial distribution  
+- Use hierarchical modeling to stabilize the gene variance  
+- Use Benjamini-Hochberg to calculate control for false discovery rate of calling differentially expressed genes  
+- Filter lowly expressed genes to reduce the number of hypotheses to be tested  
+
 ## DESeq2 library normalization
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFB993xufUU?start=14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## DESeq2 gene filtering
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi0JdrxRq5s?start=19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DESeq2 variance stabilization
 
@@ -15,6 +19,10 @@
 ## Multiple hypotheses testing and False Discovery Rate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wtU_8UQVZM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## DESeq2 gene filtering
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi0JdrxRq5s?start=19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Gene Ontology (GO analysis)
 

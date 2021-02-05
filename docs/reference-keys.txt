@@ -38,9 +38,9 @@ rseqc-tutorial
 rsemsalmon-tutorial
 de
 deseq2-library-normalization
-deseq2-gene-filtering
 deseq2-variance-stabilization
 multiple-hypotheses-testing-and-false-discovery-rate
+deseq2-gene-filtering
 gene-ontology-go-analysis
 gene-set-enrichent-analysis-gsea
 cluster
