@@ -32,4 +32,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dZja6aeTxpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## DESeq2 tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJ0MQf7_O4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
