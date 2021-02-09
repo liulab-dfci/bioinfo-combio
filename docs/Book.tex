@@ -72,7 +72,7 @@
 
 \title{Introduction to Bioinformatics and Computational Biology}
 \author{}
-\date{\vspace{-2.5em}2021-02-03}
+\date{\vspace{-2.5em}2021-02-08}
 
 \begin{document}
 \maketitle
@@ -239,37 +239,56 @@ NGS raw data is in FASTQ. Alignment gives you SAM (alignment) or BAM (binary ver
 \subsection{RSEM/Salmon Tutorial}\label{rsemsalmon-tutorial}}
 
 \hypertarget{de}{%
-\chapter{Differential expression, False discovery rate, Gene ontology}\label{de}}
+\chapter{Differential expression, FDR, GO, and GSEA}\label{de}}
 
-\hypertarget{rna-seq-nb-distribution}{%
-\section{RNA-seq NB distribution}\label{rna-seq-nb-distribution}}
+\textbf{DESeq2} is a popular and accurate computational algorithm to detect differential gene expression from RNA-seq data. It includes many elegant quantitative considerations, such as:
 
-\hypertarget{deseq2-and-variance-stabilization}{%
-\section{DESeq2 and variance stabilization}\label{deseq2-and-variance-stabilization}}
+\begin{itemize}
+\tightlist
+\item
+  Normalize the gene read counts by library size and composition\\
+\item
+  Model gene read counts with negative binomial distribution\\
+\item
+  Use hierarchical modeling to stabilize the gene variance\\
+\item
+  Use Benjamini-Hochberg to calculate control for false discovery rate of calling differentially expressed genes\\
+\item
+  Filter lowly expressed genes to reduce the number of hypotheses to be tested
+\end{itemize}
 
-\hypertarget{multiple-hypotheses-testing-and-fwer}{%
-\section{Multiple hypotheses testing and FWER}\label{multiple-hypotheses-testing-and-fwer}}
+\hypertarget{deseq2-library-normalization}{%
+\section{DESeq2 library normalization}\label{deseq2-library-normalization}}
 
-\hypertarget{fdr}{%
-\section{FDR}\label{fdr}}
+\hypertarget{deseq2-variance-stabilization}{%
+\section{DESeq2 variance stabilization}\label{deseq2-variance-stabilization}}
 
-\hypertarget{go}{%
-\section{GO}\label{go}}
+\hypertarget{multiple-hypotheses-testing-and-false-discovery-rate}{%
+\section{Multiple hypotheses testing and False Discovery Rate}\label{multiple-hypotheses-testing-and-false-discovery-rate}}
 
-\hypertarget{gsea}{%
-\chapter{GSEA, Clustering}\label{gsea}}
+\hypertarget{deseq2-gene-filtering}{%
+\section{DESeq2 gene filtering}\label{deseq2-gene-filtering}}
 
-\hypertarget{gsea-1}{%
-\section{GSEA}\label{gsea-1}}
+\hypertarget{gene-ontology-go-analysis}{%
+\section{Gene Ontology (GO analysis)}\label{gene-ontology-go-analysis}}
+
+\hypertarget{gene-set-enrichent-analysis-gsea}{%
+\section{Gene Set Enrichent Analysis (GSEA)}\label{gene-set-enrichent-analysis-gsea}}
+
+\hypertarget{deseq2-tutorial}{%
+\section{DESeq2 tutorial}\label{deseq2-tutorial}}
+
+\hypertarget{cluster}{%
+\chapter{Clustering}\label{cluster}}
 
 \hypertarget{heatmap-and-clustering-quality}{%
 \section{Heatmap and clustering quality}\label{heatmap-and-clustering-quality}}
 
-\hypertarget{h-cluster}{%
-\section{H-cluster}\label{h-cluster}}
+\hypertarget{hierarchical-cluster}{%
+\section{Hierarchical cluster}\label{hierarchical-cluster}}
 
-\hypertarget{k-means}{%
-\section{K-means}\label{k-means}}
+\hypertarget{k-means-cluster}{%
+\section{K means cluster}\label{k-means-cluster}}
 
 \hypertarget{pick-k-and-consensus-clustering}{%
 \section{Pick K and consensus clustering}\label{pick-k-and-consensus-clustering}}

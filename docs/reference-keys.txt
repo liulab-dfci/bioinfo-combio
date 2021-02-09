@@ -43,6 +43,7 @@ multiple-hypotheses-testing-and-false-discovery-rate
 deseq2-gene-filtering
 gene-ontology-go-analysis
 gene-set-enrichent-analysis-gsea
+deseq2-tutorial
 cluster
 heatmap-and-clustering-quality
 hierarchical-cluster
