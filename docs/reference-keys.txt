@@ -50,6 +50,11 @@ hierarchical-cluster
 k-means-cluster
 pick-k-and-consensus-clustering
 batch-effect-removal
+lab3
+pca-tutorial
+clustering-tutorial
+deseq2-tutorial-1
+davidgsea-tutorial
 dr
 mds
 lda
