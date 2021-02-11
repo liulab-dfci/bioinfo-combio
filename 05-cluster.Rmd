@@ -20,4 +20,20 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xXAA_CcQMek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Lab3
 
+### PCA tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/myZRA5GrI2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Clustering tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V9MFdy1cmMc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### DESeq2 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-V3CjoHGmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### DAVID/GSEA Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EL-B1LOMdak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
