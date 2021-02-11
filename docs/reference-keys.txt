@@ -53,6 +53,7 @@ batch-effect-removal
 lab3
 pca-tutorial
 clustering-tutorial
+combat-tutorial
 deseq2-tutorial-1
 davidgsea-tutorial
 dr
