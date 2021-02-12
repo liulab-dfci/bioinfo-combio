@@ -1,18 +1,28 @@
 # Dimension Reduction {#dr}
 
-## PCA (Part 1)
+RNA-seq samples have tens of thousands of genes, although many genes might not vary much between samples and many others have correlated gene expression. Dimension reduction techniques aim to reduce the dimension of representing each sample with tens of thousands of genes to much fewer demensions, e.g. 2 to 100. 
+
+## Principal Component Analysis: idea behind PCA.  
+
+PCA / SVD automatically outputs PC1, PC2, PC3, etc, with earlier PCs capturing the highest level of variability in the original data. Each PC is a linear combination of raw gene expression, and is orthogonal to all other PCs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_C9-Bn-7KO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## PCA (Part 2)
+## Principal Component Analysis: PCA applications.  
+
+PCA is a widely used method to project samples with high dimensions (e.g. with gene expression data) onto two dimensions for better visualization. It is an intuitive way to identify sample clusters, and identify batch effect. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E9dF613byjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## MDS
+## Multidimensional Scaling (MDS)
+
+MDS can use differential ways to calculate pair-wise distance, then use lower dimensions to satisfy the pair-wise distance. PCA is a special case of MDS. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJNbY7wwO3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LDA
+## Linear discriminant Analysis (LDA)
+
+LDA is not only a dimension reduction method, but also a supervised machine learning method. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eg-lclV3mS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
