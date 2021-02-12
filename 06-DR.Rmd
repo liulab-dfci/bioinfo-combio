@@ -1,14 +1,19 @@
 # Dimension Reduction {#dr}
 
+## PCA (Part 1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_C9-Bn-7KO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## PCA (Part 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9dF613byjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## MDS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ORaqTM-JLdM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SJNbY7wwO3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## LDA
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eg-lclV3mS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## PCA
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y7N-WfzuXoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

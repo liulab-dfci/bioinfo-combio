@@ -57,9 +57,10 @@ combat-tutorial
 deseq2-tutorial-1
 davidgsea-tutorial
 dr
+pca-part-1
+pca-part-2
 mds
 lda
-pca
 ml
 intro-to-machine-learning
 cross-validation
