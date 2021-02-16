@@ -8,7 +8,8 @@ documentclass: book
 
 # Course information
 
-This is the course material for STAT115/215 BIO/BST282 at Harvard University. 
+This is the course material for STAT115/215 BIO/BST282 at Harvard University.  
+All the YouTube videos in this course are organized under the [2021 STAT115 playlist](https://www.youtube.com/playlist?list=PLeB-Dlq-v6taAXK6ZCGfqImrNWJzFt3p3). 
 
 ## Contributors 
 
