@@ -8,7 +8,7 @@ Imagine you have RNA-seq of a collection of labeled normal lung and lung cancer 
 
 **Supervised learning** considers the labels with known samples and tries to identify features that can separate the samples by the label. Cross validation is conducted to evaluate the performance of different approaches and avoid over fitting.
 
-[StatQuest](https://statquest.org/video-index/) has done an amazing job with machine learning with a full [playlist of well organized videos](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF). While the full playlist is worth a full course, for the purpose of the course, we will just highlight a number of widely used approaches. They include logistic regression (this is considered statistical machine learning, K nearest neighbors, random forest, and support vector machine (these are considered computer science machine learning). 
+[StatQuest](https://statquest.org/video-index/) has done an amazing job with machine learning with a full [playlist of well organized videos](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF). While the full playlist is worth a full course, for the purpose of the course, we will just highlight a number of widely used approaches. They include logistic regression (this is considered statistical machine learning), K nearest neighbors, random forest, and support vector machine (these are considered computer science machine learning). 
 
 ## Supervised learning
 
