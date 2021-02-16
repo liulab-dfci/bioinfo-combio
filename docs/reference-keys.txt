@@ -67,6 +67,8 @@ supervised-learning
 cross-validation
 regression
 regularization
+ridge-regression
+lasso-regression
 knn
 decision-trees
 random-forest

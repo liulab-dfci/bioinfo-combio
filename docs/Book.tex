@@ -72,7 +72,7 @@
 
 \title{Introduction to Bioinformatics and Computational Biology}
 \author{}
-\date{\vspace{-2.5em}2021-02-11}
+\date{\vspace{-2.5em}2021-02-16}
 
 \begin{document}
 \maketitle
@@ -317,23 +317,44 @@ NGS raw data is in FASTQ. Alignment gives you SAM (alignment) or BAM (binary ver
 \hypertarget{dr}{%
 \chapter{Dimension Reduction}\label{dr}}
 
-\hypertarget{pca-part-1}{%
-\section{PCA (Part 1)}\label{pca-part-1}}
+RNA-seq samples have tens of thousands of genes, although many genes might not vary much between samples and many others have correlated gene expression. Dimension reduction techniques aim to reduce the dimension of representing each sample with tens of thousands of genes to much fewer demensions, e.g.~2 to 100.
 
-\hypertarget{pca-part-2}{%
-\section{PCA (Part 2)}\label{pca-part-2}}
+\hypertarget{principal-component-analysis-idea-behind-pca.}{%
+\section{Principal Component Analysis: idea behind PCA.}\label{principal-component-analysis-idea-behind-pca.}}
 
-\hypertarget{mds}{%
-\section{MDS}\label{mds}}
+PCA / SVD automatically outputs PC1, PC2, PC3, etc, with earlier PCs capturing the highest level of variability in the original data. Each PC is a linear combination of raw gene expression, and is orthogonal to all other PCs.
 
-\hypertarget{lda}{%
-\section{LDA}\label{lda}}
+\hypertarget{principal-component-analysis-pca-applications.}{%
+\section{Principal Component Analysis: PCA applications.}\label{principal-component-analysis-pca-applications.}}
+
+PCA is a widely used method to project samples with high dimensions (e.g.~with gene expression data) onto two dimensions for better visualization. It is an intuitive way to identify sample clusters, and identify batch effect.
+
+\hypertarget{multidimensional-scaling-mds}{%
+\section{Multidimensional Scaling (MDS)}\label{multidimensional-scaling-mds}}
+
+MDS can use differential ways to calculate pair-wise distance, then use lower dimensions to satisfy the pair-wise distance. PCA is a special case of MDS.
+
+\hypertarget{linear-discriminant-analysis-lda}{%
+\section{Linear discriminant Analysis (LDA)}\label{linear-discriminant-analysis-lda}}
+
+LDA is not only a dimension reduction method, but also a supervised machine learning method.
 
 \hypertarget{ml}{%
 \chapter{Classification}\label{ml}}
 
-\hypertarget{intro-to-machine-learning}{%
-\section{Intro to machine learning}\label{intro-to-machine-learning}}
+\hypertarget{introduction-1}{%
+\section{Introduction}\label{introduction-1}}
+
+Imagine you have RNA-seq of a collection of labeled normal lung and lung cancer tissues. Given a new sample of RNA-seq from the lung with unknown diagnosis, will you be able to predict based on the existing labeled samples and the expression data whether the new sample is normal or tumor? This is a sample classification problem, and it could be solved using \textbf{unsupervised} and \textbf{supervised} learning approaches.
+
+\textbf{Unsupervised learning} is basically clustering or dimension reduction. You can use hierarchical clustering, MDS, or PCA. After clustering and projection the data to lower dimensions, you examine the labels of the known samples (hopefully they cluster into separate groups by the label). Then you can assign label to the unknown sample based on its distance to the known samples.
+
+\textbf{Supervised learning} considers the labels with known samples and tries to identify features that can separate the samples by the label. Cross validation is conducted to evaluate the performance of different approaches and avoid over fitting.
+
+\href{https://statquest.org/video-index/}{StatQuest} has done an amazing job with machine learning with a full \href{https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF}{playlist of well organized videos}. While the full playlist is worth a full course, for the purpose of the course, we will just highlight a number of widely used approaches. They include logistic regression (this is considered statistical machine learning), K nearest neighbors, random forest, and support vector machine (these are considered computer science machine learning).
+
+\hypertarget{supervised-learning}{%
+\section{Supervised learning}\label{supervised-learning}}
 
 \hypertarget{cross-validation}{%
 \section{Cross validation}\label{cross-validation}}
@@ -343,6 +364,12 @@ NGS raw data is in FASTQ. Alignment gives you SAM (alignment) or BAM (binary ver
 
 \hypertarget{regularization}{%
 \section{Regularization}\label{regularization}}
+
+\hypertarget{ridge-regression}{%
+\subsection{Ridge regression}\label{ridge-regression}}
+
+\hypertarget{lasso-regression}{%
+\subsection{LASSO regression}\label{lasso-regression}}
 
 \hypertarget{knn}{%
 \section{KNN}\label{knn}}
