@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2021-02-12" />
+<meta name="date" content="2021-02-16" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -160,14 +160,15 @@
 </ul></li>
 <li class="chapter" data-level="8" data-path="ml.html"><a href="ml.html"><i class="fa fa-check"></i><b>8</b> Classification</a>
 <ul>
-<li class="chapter" data-level="8.1" data-path="ml.html"><a href="ml.html#intro-to-machine-learning"><i class="fa fa-check"></i><b>8.1</b> Intro to machine learning</a></li>
-<li class="chapter" data-level="8.2" data-path="ml.html"><a href="ml.html#cross-validation"><i class="fa fa-check"></i><b>8.2</b> Cross validation</a></li>
-<li class="chapter" data-level="8.3" data-path="ml.html"><a href="ml.html#regression"><i class="fa fa-check"></i><b>8.3</b> Regression</a></li>
-<li class="chapter" data-level="8.4" data-path="ml.html"><a href="ml.html#regularization"><i class="fa fa-check"></i><b>8.4</b> Regularization</a></li>
-<li class="chapter" data-level="8.5" data-path="ml.html"><a href="ml.html#knn"><i class="fa fa-check"></i><b>8.5</b> KNN</a></li>
-<li class="chapter" data-level="8.6" data-path="ml.html"><a href="ml.html#decision-trees"><i class="fa fa-check"></i><b>8.6</b> Decision trees</a></li>
-<li class="chapter" data-level="8.7" data-path="ml.html"><a href="ml.html#random-forest"><i class="fa fa-check"></i><b>8.7</b> Random forest</a></li>
-<li class="chapter" data-level="8.8" data-path="ml.html"><a href="ml.html#svm"><i class="fa fa-check"></i><b>8.8</b> SVM</a></li>
+<li class="chapter" data-level="8.1" data-path="ml.html"><a href="ml.html#introduction-1"><i class="fa fa-check"></i><b>8.1</b> Introduction</a></li>
+<li class="chapter" data-level="8.2" data-path="ml.html"><a href="ml.html#supervised-learning"><i class="fa fa-check"></i><b>8.2</b> Supervised learning</a></li>
+<li class="chapter" data-level="8.3" data-path="ml.html"><a href="ml.html#cross-validation"><i class="fa fa-check"></i><b>8.3</b> Cross validation</a></li>
+<li class="chapter" data-level="8.4" data-path="ml.html"><a href="ml.html#regression"><i class="fa fa-check"></i><b>8.4</b> Regression</a></li>
+<li class="chapter" data-level="8.5" data-path="ml.html"><a href="ml.html#regularization"><i class="fa fa-check"></i><b>8.5</b> Regularization</a></li>
+<li class="chapter" data-level="8.6" data-path="ml.html"><a href="ml.html#knn"><i class="fa fa-check"></i><b>8.6</b> KNN</a></li>
+<li class="chapter" data-level="8.7" data-path="ml.html"><a href="ml.html#decision-trees"><i class="fa fa-check"></i><b>8.7</b> Decision trees</a></li>
+<li class="chapter" data-level="8.8" data-path="ml.html"><a href="ml.html#random-forest"><i class="fa fa-check"></i><b>8.8</b> Random forest</a></li>
+<li class="chapter" data-level="8.9" data-path="ml.html"><a href="ml.html#svm"><i class="fa fa-check"></i><b>8.9</b> SVM</a></li>
 </ul></li>
 <li class="chapter" data-level="9" data-path="m1re.html"><a href="m1re.html"><i class="fa fa-check"></i><b>9</b> Module I Review</a>
 <ul>
@@ -371,43 +372,50 @@
             <section class="normal" id="section-">
 <div id="ml" class="section level1" number="8">
 <h1><span class="header-section-number">Chapter 8</span> Classification</h1>
-<div id="intro-to-machine-learning" class="section level2" number="8.1">
-<h2><span class="header-section-number">8.1</span> Intro to machine learning</h2>
+<div id="introduction-1" class="section level2" number="8.1">
+<h2><span class="header-section-number">8.1</span> Introduction</h2>
+<p>Sample classification could be done using <strong>unsupervised</strong> and <strong>supervised</strong> learning approaches.</p>
+<p><strong>Unsupervised learning</strong> is basically clustering or dimension reduction. You can use hierarchical clustering, MDS, or PCA. After clustering and projection the data to lower dimensions, you examine the labels of the known samples (hopefully they cluster into separate groups by the label). Then you can assign label to the unknown sample based on its distance to the known samples.</p>
+<p><strong>Supervised learning</strong> considers the labels with known samples and tries to identify features that can separate the samples by the label. Cross validation is conducted to evaluate the performance of different approaches and avoid over fitting.</p>
+<p><a href="https://statquest.org/video-index/">StatQuest</a> has done an amazing job with machine learning with a full <a href="https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF">playlist of well organized videos</a>. For the purpose of the course, we will just highlight a number of widely used approaches: logistic regression (this is considered statistical machine learning, K nearest neighbors, random forest, and support vector machine (these are considered computer science machine learning).</p>
+</div>
+<div id="supervised-learning" class="section level2" number="8.2">
+<h2><span class="header-section-number">8.2</span> Supervised learning</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gv9_4yMHFhI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="cross-validation" class="section level2" number="8.2">
-<h2><span class="header-section-number">8.2</span> Cross validation</h2>
+<div id="cross-validation" class="section level2" number="8.3">
+<h2><span class="header-section-number">8.3</span> Cross validation</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSytzGwwBVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="regression" class="section level2" number="8.3">
-<h2><span class="header-section-number">8.3</span> Regression</h2>
+<div id="regression" class="section level2" number="8.4">
+<h2><span class="header-section-number">8.4</span> Regression</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yIYKR4sgzI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="regularization" class="section level2" number="8.4">
-<h2><span class="header-section-number">8.4</span> Regularization</h2>
+<div id="regularization" class="section level2" number="8.5">
+<h2><span class="header-section-number">8.5</span> Regularization</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q81RR3yKn30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="knn" class="section level2" number="8.5">
-<h2><span class="header-section-number">8.5</span> KNN</h2>
+<div id="knn" class="section level2" number="8.6">
+<h2><span class="header-section-number">8.6</span> KNN</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HVXime0nQeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="decision-trees" class="section level2" number="8.6">
-<h2><span class="header-section-number">8.6</span> Decision trees</h2>
+<div id="decision-trees" class="section level2" number="8.7">
+<h2><span class="header-section-number">8.7</span> Decision trees</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7VeUPuFGJHk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="random-forest" class="section level2" number="8.7">
-<h2><span class="header-section-number">8.7</span> Random forest</h2>
+<div id="random-forest" class="section level2" number="8.8">
+<h2><span class="header-section-number">8.8</span> Random forest</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J4Wdy0Wc_xQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="svm" class="section level2" number="8.8">
-<h2><span class="header-section-number">8.8</span> SVM</h2>
+<div id="svm" class="section level2" number="8.9">
+<h2><span class="header-section-number">8.9</span> SVM</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/efR1C6CvhmE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 

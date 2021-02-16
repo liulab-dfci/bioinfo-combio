@@ -62,7 +62,8 @@ principal-component-analysis-pca-applications.
 multidimensional-scaling-mds
 linear-discriminant-analysis-lda
 ml
-intro-to-machine-learning
+introduction-1
+supervised-learning
 cross-validation
 regression
 regularization
