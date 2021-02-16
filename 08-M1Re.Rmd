@@ -1,9 +1,13 @@
 # Module I Review {#m1re}
 
-## Gene Expression Module Summary
+## Module I review
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wChm8iJ73Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G9uzKDIDxYM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Gene Expression Analysis Scenarios
+## Analysis Scenario 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5VUTPdHzuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKi5TR4Vfrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Analysis Scenario 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3r089BpWirE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

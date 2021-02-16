@@ -74,8 +74,9 @@ decision-trees
 random-forest
 svm
 m1re
-gene-expression-module-summary
-gene-expression-analysis-scenarios
+module-i-review
+analysis-scenario-1
+analysis-scenario-2
 tfmf
 transcription-regulation
 motif-representation
