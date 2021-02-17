@@ -73,6 +73,12 @@ knn
 decision-trees
 random-forest
 svm
+lab-4
+k-nearest-neighbors-tutorial
+regressionridgelasso-tutorial
+logistic-regression-tutorial
+support-vector-machine-tutorial
+random-forest-tutorial
 m1re
 module-i-review
 analysis-scenario-1

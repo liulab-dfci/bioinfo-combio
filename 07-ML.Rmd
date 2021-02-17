@@ -47,3 +47,25 @@ Imagine you have RNA-seq of a collection of labeled normal lung and lung cancer 
 ## SVM
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/efR1C6CvhmE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lab 4
+
+### K-Nearest Neighbors tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9gDK3BcVbSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Regression/Ridge/LASSO Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jehOW8JnFC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Logistic Regression Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xokooRv_teQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Support Vector Machine Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwWDFF6m9kk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Random Forest Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ark0Iu0gK08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
