@@ -69,6 +69,7 @@ regression
 regularization
 ridge-regression
 lasso-regression
+lasso-tutorial-in-r
 knn
 decision-trees
 random-forest

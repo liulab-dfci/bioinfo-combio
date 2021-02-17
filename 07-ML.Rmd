@@ -32,6 +32,10 @@ Imagine you have RNA-seq of a collection of labeled normal lung and lung cancer 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NGf0voTMlcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### LASSO tutorial in R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAPCaue8UKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## KNN
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HVXime0nQeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
