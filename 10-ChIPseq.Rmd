@@ -1,21 +1,17 @@
 # ChIP-seq, Expression Integration {#chip}
 
-## ChIP-seq
+## Motif finding in eukaryotes, and ChIP-seq
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/der5tgPggvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BWA and MACS
+## MACS and ChIP-seq QC
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvE8ZhTKvWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## ChIP-seq QC
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hvE8ZhTKvWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## TF interactions (motif)
+## Identify TF interactions from ChIP-seq motifs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OX3_p3VhLpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TF target genes (expression integration)
+## TF target genes and expression integration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZabK9vooDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
