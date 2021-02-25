@@ -89,6 +89,7 @@ transcription-regulation-and-motif-representation
 motif-finding-using-expectation-maximization
 motif-finding-using-gibbs-sampler
 gibbs-sampler-intuition-and-transcription-factor-motif-databases
+motif-finding-general-practices
 chip
 motif-finding-in-eukaryotes-and-chip-seq
 macs-and-chip-seq-qc

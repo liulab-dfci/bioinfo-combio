@@ -15,3 +15,7 @@
 ## Gibbs sampler intuition and transcription factor motif databases
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9s6oRsX6PI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Motif finding general practices
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8L0W1v9v_80" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
