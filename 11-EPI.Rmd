@@ -1,28 +1,17 @@
 # Epigenetics, DNA Methylation {#epi}
 
-## Epigenetics
+## Intro to DNA Methylation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CnECsb6Eb2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3WphWFMUIAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## DNA methylation
+## DNA Methylation Pattern and Function
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OnCZlC0T2vs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N0Aq-TLdh_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Promoter function
+## DNA Methylation in Diseases
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kGRWLtNzNAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Techniques to Measure DNA Methylation
 
-## Gene body function
-
-
-
-## Enhancer function
-
-
-
-## Repetitive region function
-
-
-
-## Early cancer detection
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bmh5TRHFcM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

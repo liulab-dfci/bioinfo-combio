@@ -15,3 +15,21 @@
 ## TF target genes and expression integration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZabK9vooDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lab 5 
+
+### MACS Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmvlBEF58LE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### ChIP-seq QC Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XR02UaMNBp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### TF Motif Finding Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHEz3mB4OdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### TF Collaborator Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V7wG0zRwvnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
