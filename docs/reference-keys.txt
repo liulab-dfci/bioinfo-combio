@@ -90,14 +90,6 @@ motif-finding-using-expectation-maximization
 motif-finding-using-gibbs-sampler
 gibbs-sampler-intuition-and-transcription-factor-motif-databases
 motif-finding-general-practices
-tfmf
-transcription-regulation
-motif-representation
-em
-gibbs-sampler
-gibbs-intuition
-motif-finding-in-eukaryotes
-known-motif-database
 chip
 motif-finding-in-eukaryotes-and-chip-seq
 macs-and-chip-seq-qc
@@ -120,7 +112,7 @@ infer-transcription-factor-binding-from-histone-mark-dynamics
 using-histone-marks-to-infer-gene-functions
 introduction-to-dnase-seq-and-atac-seq
 infer-tf-from-differential-genes-using-lisa
-dnase-seq
+caution-on-dnaseatac-seq-footprint-analysis
 summary-of-epigenetics-and-chromatin
 lrci
 chromatin-interactions

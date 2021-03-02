@@ -24,9 +24,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BPcthBA3pSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## DNase-seq
+## Caution on DNase/ATAC-seq footprint analysis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsb4FbsP48Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsb4FbsP48Q?start=382" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Summary of Epigenetics and Chromatin
 
