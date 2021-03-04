@@ -100,7 +100,7 @@ macs-tutorial
 chip-seq-qc-tutorial
 tf-motif-finding-tutorial
 tf-collaborator-tutorial
-epi
+DNAMethyl
 intro-to-dna-methylation
 dna-methylation-pattern-and-function
 dna-methylation-in-diseases
@@ -114,7 +114,13 @@ introduction-to-dnase-seq-and-atac-seq
 infer-tf-from-differential-genes-using-lisa
 caution-on-dnaseatac-seq-footprint-analysis
 summary-of-epigenetics-and-chromatin
-lrci
+hmm
+intro-to-hmm
+pb1-forward-backward-procedure
+pb2-viterbi-algorithm
+pb3-parameter-estimation
+hmm-application
+HiC
 chromatin-interactions
 hic
 hic-contact-map
@@ -124,12 +130,6 @@ loops
 domains
 compartments
 phase-separation
-hmm
-intro-to-hmm
-pb1-forward-backward-procedure
-pb2-viterbi-algorithm
-pb3-parameter-estimation
-hmm-application
 m2re
 module-ii-review
 practive-questions
