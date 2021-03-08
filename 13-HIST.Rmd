@@ -1,0 +1,33 @@
+# Histone modifications Chromatin accessibility {#hist}
+
+## Nucleosome Positioning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLXnt43j2pU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Introduction to Histone Modifications
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BlyvefYrWIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Infer Transcription Factor Binding from Histone Mark Dynamics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2YsYpbBpgn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Using Histone Marks to Infer Gene Functions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OgshOEs58wo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Introduction to DNase-seq and ATAC-seq
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c35spPG5Scw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Infer TF from Differential Genes Using LISA
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BPcthBA3pSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## DNase-seq
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsb4FbsP48Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary of Epigenetics and Chromatin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujwtXIAWAEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
