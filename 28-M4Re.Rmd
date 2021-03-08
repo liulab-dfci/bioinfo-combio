@@ -1,9 +1,0 @@
-# Module IV Review and Course Review {#m4re}
-
-## Module IV Review
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ewDlYSPUh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Course Review
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F_8wlL7g5eY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

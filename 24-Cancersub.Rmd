@@ -1,0 +1,25 @@
+# Cancer Subtyping, Survival Analyses {#cancersub}
+
+## TCGA expression
+
+
+
+## Tumor subtypes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eAQf-dxHdxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Survival analysis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUCSzsx6yFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## GoF Oncogenes and LoF TS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2rMlqUbeCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Chromatin regulator mutations in cancer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qvtrr_auM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## DNA methylation and CIMP
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qvtrr_auM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
