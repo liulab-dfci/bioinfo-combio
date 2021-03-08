@@ -126,11 +126,6 @@ lab-6
 chip-seq-expression-integration
 cistrome-go-tutorial
 atac-seq-analysis-and-lisa-tutorial
-DNAMethyl
-intro-to-dna-methylation-1
-dna-methylation-pattern-and-function-1
-dna-methylation-in-diseases-1
-techniques-to-measure-dna-methylation-1
 lrci
 chromatin-interactions
 hic
