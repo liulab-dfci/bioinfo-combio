@@ -1,0 +1,33 @@
+# Hidden Markov Model {#hmm}
+
+## Markov Chain
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6XwAqt_AsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hidden Markov Model
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VBs8FYsZIN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hidden Markov Model Forward Procedure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c6OrSKsH_gg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hidden Markov Model Backward Procedure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FlVNdck3NU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## HMM Forward-Backward Algorithm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0N--Mtik358" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Viterbi Algorithm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CGijzXDxiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Baum Welch Algorithm Intuition
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NeC1ZC0Nwvw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## HMM Bioinformatics Applications
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOFZoSaPbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
