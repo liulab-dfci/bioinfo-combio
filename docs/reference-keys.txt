@@ -84,12 +84,6 @@ m1re
 module-i-review
 analysis-scenario-1
 analysis-scenario-2
-Motif
-transcription-regulation-and-motif-representation
-motif-finding-using-expectation-maximization
-motif-finding-using-gibbs-sampler
-gibbs-sampler-intuition-and-transcription-factor-motif-databases
-motif-finding-general-practices
 tfmf
 transcription-regulation
 motif-representation
