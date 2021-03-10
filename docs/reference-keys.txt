@@ -129,7 +129,7 @@ hmm-forward-backward-algorithm
 viterbi-algorithm
 baum-welch-algorithm-intuition
 hmm-bioinformatics-applications
-lrci
+hic
 introduction-to-chromatin-interaction-and-organization
 methods-to-investigate-3d-genome-organization
 topologically-associating-domains
