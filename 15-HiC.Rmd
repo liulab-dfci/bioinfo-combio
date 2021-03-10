@@ -1,4 +1,4 @@
-# Long Range Chromatin Interactions {#lrci}
+# HiC {#hic}
 
 ## Introduction to Chromatin Interaction and Organization
 
