@@ -1,36 +1,33 @@
 # Long Range Chromatin Interactions {#lrci}
 
-## Chromatin interactions
+## Introduction to Chromatin Interaction and Organization
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddyWbxjkhos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Methods to Investigate 3D Genome Organization
 
-## HiC
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQIlqTTTLcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hk5ixO7Tb24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Topologically Associating Domains
 
-## HiC contact map
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ytVxgHG5REg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## TAD Function and Loop Anchors
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lgu4HHDpqOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HiC normalization
+## Chromatin Compartments
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odA3uAMx1pA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Computational Methods to Call Chromatin Loops
 
-## Fractal globule
+<iframe width="560" height="315" src="https://www.youtube.com/embed/is8RwBGl1r4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Variations of Chromatin Interaction Technologies
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LNq5fcFhaLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Loops
+## Resources for Exploring 3D Genomes
 
-
-
-## Domains
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hg24ZIX06Tk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Compartments
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYd4Nf5D0yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Phase separation
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3-8R1gs-eU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
