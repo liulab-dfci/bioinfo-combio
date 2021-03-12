@@ -1,4 +1,4 @@
-# HiC {#hic}
+# HiC {#Hic}
 
 ## Introduction to Chromatin Interaction and Organization
 
