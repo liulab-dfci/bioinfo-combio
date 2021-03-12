@@ -140,12 +140,10 @@ variations-of-chromatin-interaction-technologies
 resources-for-exploring-3d-genomes
 m2re
 module-ii-review
-practive-questions
+module-ii-analysis-scenarios
 gwas1
-snp-and-ld
-family-based-vs-case-control-association-studies
-gwas-studies-and-catalog
-gtex-and-eqtl
+snp-lp-and-association-studies
+gwas-studies-and-eqtl-analysis
 gwas2
 find-tissue-cell-type
 identify-causal-snps-and-genes
