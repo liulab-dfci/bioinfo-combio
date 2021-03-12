@@ -138,6 +138,10 @@ chromatin-compartments
 computational-methods-to-call-chromatin-loops
 variations-of-chromatin-interaction-technologies
 resources-for-exploring-3d-genomes
+lab-7
+bs-seq-and-bismark-tutorial
+tutorial-on-associating-dna-methylation-with-expression
+hic-analysis-tutorial
 m2re
 module-ii-review
 module-ii-analysis-scenarios

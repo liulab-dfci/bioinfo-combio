@@ -31,3 +31,17 @@
 ## Resources for Exploring 3D Genomes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3-8R1gs-eU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lab 7
+
+### BS-seq and Bismark Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdHndKaGzJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Tutorial on Associating DNA Methylation with Expression
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Es_uDJ2yhOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### HiC Analysis Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZqPaGkn7hM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
