@@ -1,13 +1,17 @@
 # GWAS and Epigenomics {#gwas2}
 
-## Find tissue / cell type 
+## Intro Functional Annotate GWAS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NsrArJDvouE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## GWAS Functional Enrichment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Ru18f3LR34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Identify causal SNPs and genes
+## Find Causal SNPs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71FGTUdmPM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Predict phenotypes
+## Predict disease risk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a4Uu8mOyZU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
