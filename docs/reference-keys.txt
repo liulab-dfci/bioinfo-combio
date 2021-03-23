@@ -159,13 +159,9 @@ find-causal-snps
 predict-disease-risk
 scrna1
 intro-to-scrna-seq
-smart-droplet-microwell-sci-based
-qc
-normalization
-imputation
-dimension-reduction
-clustering
-t-sne-and-umap
+scrna-seq-techniques
+scrna-seq-preprocessing-and-qc
+cleaning-up-expression-matrix
 scrna2
 annotate-scrna-seq-clusters
 differential-expression
