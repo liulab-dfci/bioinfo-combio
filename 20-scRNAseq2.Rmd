@@ -1,24 +1,18 @@
 # Single-cell RNA-seq (2) {#scrna2}
 
-## Annotate scRNA-seq clusters
+## scRNA seq dimension reduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i-e7KiETyGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5a0FyBjMJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Differential expression
+## Clustering and projections
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kWXqKEvyw3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ysXZgreaPgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Batch effect removal
+## Pseudo time and RNA velocity
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxLgmB0xCT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emNX_Vm_P2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pseudotime 
+## Clustering by genotype and CITE seq
 
-
-
-## Overload 10X
-
-
-
-## Other applications (CITE-seq, multi-seq, spatial transcriptomics)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6aOUCjgurfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

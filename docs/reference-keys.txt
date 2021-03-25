@@ -163,12 +163,10 @@ scrna-seq-techniques
 scrna-seq-preprocessing-and-qc
 cleaning-up-expression-matrix
 scrna2
-annotate-scrna-seq-clusters
-differential-expression
-batch-effect-removal-1
-pseudotime
-overload-10x
-other-applications-cite-seq-multi-seq-spatial-transcriptomics
+scrna-seq-dimension-reduction
+clustering-and-projections
+pseudo-time-and-rna-velocity
+clustering-by-genotype-and-cite-seq
 scatac
 intro-to-scatac-seq
 sample-and-cell-qc
