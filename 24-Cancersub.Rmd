@@ -1,25 +1,21 @@
 # Cancer Subtyping, Survival Analyses {#cancersub}
 
-## TCGA expression
+## Tumor Subtypes
 
-
-
-## Tumor subtypes
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eAQf-dxHdxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eAQf-dxHdxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Survival analysis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aUCSzsx6yFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUCSzsx6yFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## GoF Oncogenes and LoF TS
+## Oncogenes and Tumor Suppressor Mutations
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S2rMlqUbeCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2rMlqUbeCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Chromatin regulator mutations in cancer
+## Cancer Epigenetics
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qvtrr_auM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qvtrr_auM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## DNA methylation and CIMP
+## Cancer Hallmarks
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qvtrr_auM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHmuKybhkME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

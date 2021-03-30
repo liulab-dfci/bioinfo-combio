@@ -184,12 +184,11 @@ interpret-tumor-mutations
 find-cancer-genes
 summary-and-future
 cancersub
-tcga-expression
 tumor-subtypes
 survival-analysis
-gof-oncogenes-and-lof-ts
-chromatin-regulator-mutations-in-cancer
-dna-methylation-and-cimp
+oncogenes-and-tumor-suppressor-mutations
+cancer-epigenetics
+cancer-hallmarks
 tt
 hallmarks-of-cancer
 chemo-vs-targeted-therapy
