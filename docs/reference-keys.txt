@@ -173,6 +173,8 @@ sample-and-cell-qc
 dimension-reduction-clustering-visualization
 differential-peaks-and-annotations
 integration-with-scrna-seq
+lab-9
+maestro-tutorial
 m3re
 module-iii-review
 cancerseq
