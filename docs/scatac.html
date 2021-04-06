@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2021-04-01" />
+<meta name="date" content="2021-04-06" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -270,13 +270,12 @@
 <li class="chapter" data-level="20.4" data-path="scrna2.html"><a href="scrna2.html#clustering-by-genotype-and-cite-seq"><i class="fa fa-check"></i><b>20.4</b> Clustering by genotype and CITE seq</a></li>
 </ul></li>
 <li class="chapter" data-level="21" data-path="scatac.html"><a href="scatac.html"><i class="fa fa-check"></i><b>21</b> scATAC-seq</a><ul>
-<li class="chapter" data-level="21.1" data-path="scatac.html"><a href="scatac.html#intro-to-scatac-seq"><i class="fa fa-check"></i><b>21.1</b> Intro to scATAC-seq</a></li>
-<li class="chapter" data-level="21.2" data-path="scatac.html"><a href="scatac.html#sample-and-cell-qc"><i class="fa fa-check"></i><b>21.2</b> Sample and cell QC</a></li>
-<li class="chapter" data-level="21.3" data-path="scatac.html"><a href="scatac.html#dimension-reduction-clustering-visualization"><i class="fa fa-check"></i><b>21.3</b> Dimension reduction, clustering &amp; visualization</a></li>
-<li class="chapter" data-level="21.4" data-path="scatac.html"><a href="scatac.html#differential-peaks-and-annotations"><i class="fa fa-check"></i><b>21.4</b> Differential peaks and annotations</a></li>
-<li class="chapter" data-level="21.5" data-path="scatac.html"><a href="scatac.html#integration-with-scrna-seq"><i class="fa fa-check"></i><b>21.5</b> Integration with scRNA-seq</a></li>
-<li class="chapter" data-level="21.6" data-path="scatac.html"><a href="scatac.html#lab-9"><i class="fa fa-check"></i><b>21.6</b> Lab 9</a><ul>
-<li class="chapter" data-level="21.6.1" data-path="scatac.html"><a href="scatac.html#maestro-tutorial"><i class="fa fa-check"></i><b>21.6.1</b> MAESTRO tutorial</a></li>
+<li class="chapter" data-level="21.1" data-path="scatac.html"><a href="scatac.html#single-cell-atac-seq-technique"><i class="fa fa-check"></i><b>21.1</b> Single-Cell ATAC-seq Technique</a></li>
+<li class="chapter" data-level="21.2" data-path="scatac.html"><a href="scatac.html#single-cell-atac-seq-pre-processing-and-qc"><i class="fa fa-check"></i><b>21.2</b> Single-Cell ATAC-seq Pre-Processing and QC</a></li>
+<li class="chapter" data-level="21.3" data-path="scatac.html"><a href="scatac.html#single-cell-atac-seq-analysis"><i class="fa fa-check"></i><b>21.3</b> Single-Cell ATAC-seq Analysis</a></li>
+<li class="chapter" data-level="21.4" data-path="scatac.html"><a href="scatac.html#scatac-seq-downstream-analyses-and-scrna-seq-integration"><i class="fa fa-check"></i><b>21.4</b> scATAC-seq Downstream Analyses and scRNA-seq Integration</a></li>
+<li class="chapter" data-level="21.5" data-path="scatac.html"><a href="scatac.html#lab-9"><i class="fa fa-check"></i><b>21.5</b> Lab 9</a><ul>
+<li class="chapter" data-level="21.5.1" data-path="scatac.html"><a href="scatac.html#maestro-tutorial"><i class="fa fa-check"></i><b>21.5.1</b> MAESTRO tutorial</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="22" data-path="m3re.html"><a href="m3re.html"><i class="fa fa-check"></i><b>22</b> Module III Review</a><ul>
@@ -362,35 +361,30 @@
             <section class="normal" id="section-">
 <div id="scatac" class="section level1">
 <h1><span class="header-section-number">Chapter 21</span> scATAC-seq</h1>
-<div id="intro-to-scatac-seq" class="section level2">
-<h2><span class="header-section-number">21.1</span> Intro to scATAC-seq</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1OBqrP_R3HY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="single-cell-atac-seq-technique" class="section level2">
+<h2><span class="header-section-number">21.1</span> Single-Cell ATAC-seq Technique</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufUVMHLDa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="sample-and-cell-qc" class="section level2">
-<h2><span class="header-section-number">21.2</span> Sample and cell QC</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r39Ux0vKDgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="single-cell-atac-seq-pre-processing-and-qc" class="section level2">
+<h2><span class="header-section-number">21.2</span> Single-Cell ATAC-seq Pre-Processing and QC</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2EHscxO1Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="dimension-reduction-clustering-visualization" class="section level2">
-<h2><span class="header-section-number">21.3</span> Dimension reduction, clustering &amp; visualization</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_6BB1o1AqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="single-cell-atac-seq-analysis" class="section level2">
+<h2><span class="header-section-number">21.3</span> Single-Cell ATAC-seq Analysis</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGcUo61ZLxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="differential-peaks-and-annotations" class="section level2">
-<h2><span class="header-section-number">21.4</span> Differential peaks and annotations</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_6BB1o1AqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
-<div id="integration-with-scrna-seq" class="section level2">
-<h2><span class="header-section-number">21.5</span> Integration with scRNA-seq</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jea40HqZjFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div id="scatac-seq-downstream-analyses-and-scrna-seq-integration" class="section level2">
+<h2><span class="header-section-number">21.4</span> scATAC-seq Downstream Analyses and scRNA-seq Integration</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XBwMemwrHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 <div id="lab-9" class="section level2">
-<h2><span class="header-section-number">21.6</span> Lab 9</h2>
+<h2><span class="header-section-number">21.5</span> Lab 9</h2>
 <div id="maestro-tutorial" class="section level3">
-<h3><span class="header-section-number">21.6.1</span> MAESTRO tutorial</h3>
+<h3><span class="header-section-number">21.5.1</span> MAESTRO tutorial</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD9r-M_EX-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 

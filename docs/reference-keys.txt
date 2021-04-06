@@ -168,11 +168,10 @@ clustering-and-projections
 pseudo-time-and-rna-velocity
 clustering-by-genotype-and-cite-seq
 scatac
-intro-to-scatac-seq
-sample-and-cell-qc
-dimension-reduction-clustering-visualization
-differential-peaks-and-annotations
-integration-with-scrna-seq
+single-cell-atac-seq-technique
+single-cell-atac-seq-pre-processing-and-qc
+single-cell-atac-seq-analysis
+scatac-seq-downstream-analyses-and-scrna-seq-integration
 lab-9
 maestro-tutorial
 m3re
