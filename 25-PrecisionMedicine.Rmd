@@ -1,0 +1,18 @@
+# Targeted Therapy and Precision Medicine {#PrecisionMedicine}
+
+## Introduction to Targeted Therapy and Precision Medicine
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YorrFw4N0gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Resistance to targeted therapy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUMyImAbOU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Model system chemical and genetic screens
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUgpylIAI00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overcoming resistance to targeted therapy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5KKXWpm5Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

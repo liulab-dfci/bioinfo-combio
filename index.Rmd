@@ -18,9 +18,9 @@ All the YouTube videos in this course are organized under the [2021 STAT115 play
 [Martin Hemberg](https://www.sanger.ac.uk/group/hemberg-group/) Wellcome Sanger Institute  
 [Ting Wang](http://wang.wustl.edu/) Washington University  
 [Feng Yue](http://yuelab.org/) Northwestern University  
+[Ming Tang]() Dana-Farber Cancer Institute
 [Gad Getz](https://www.broadinstitute.org/labs/getz) Harvard University and Broad Institute  
 
-Ming Tang  
 Yang Liu  
 Bo Yuan  
 Jack Kang  
