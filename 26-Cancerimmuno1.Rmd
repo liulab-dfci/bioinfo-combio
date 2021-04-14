@@ -1,26 +1,20 @@
 # Cancer Immunotherapy (1) {#cancerimmuno1}
 
-## Systemic immunotherapy
+## Intro to Cancer Immunotherapy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tCfk8YKsJT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tCfk8YKsJT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Personalized immunotherapy
+## HLA and Neoantigen Presentation
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pFITM6pc9Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Tumor Immune Deconvolution
 
-## HLA and neoantigens
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YGubgHCys7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pFITM6pc9Yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Immune Receptor Repertoires
 
-## Tumor immune deconvolution
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YGubgHCys7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## T cell signaling (PD1/PDL1, etc)
-
-
-
-## Other immune-cells (scRNA-seq)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0EjiZst8FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lab 10
 

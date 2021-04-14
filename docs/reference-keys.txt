@@ -206,12 +206,10 @@ compound-screens
 genetic-screens
 tumor-heterogeneity
 cancerimmuno1
-systemic-immunotherapy
-personalized-immunotherapy
-hla-and-neoantigens
+intro-to-cancer-immunotherapy
+hla-and-neoantigen-presentation
 tumor-immune-deconvolution
-t-cell-signaling-pd1pdl1-etc
-other-immune-cells-scrna-seq
+immune-receptor-repertoires
 lab-10
 tcga-exploration
 limma-on-microarray-data
