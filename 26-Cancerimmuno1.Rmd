@@ -8,13 +8,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pFITM6pc9Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tumor Immune Deconvolution
+## Immune Cell Infiltration in Tumors
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YGubgHCys7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8pJTGbaTjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Immune Receptor Repertoires
+## T Cell Receptor Repertoires in Cancer Immunology
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0EjiZst8FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUGtYEVtFwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lab 10
 

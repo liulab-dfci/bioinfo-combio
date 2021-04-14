@@ -15,7 +15,3 @@
 ## Cancer Epigenetics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qvtrr_auM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Cancer Hallmarks
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FHmuKybhkME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
