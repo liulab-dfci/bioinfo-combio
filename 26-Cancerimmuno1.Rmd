@@ -22,3 +22,16 @@
 
 ## Other immune-cells (scRNA-seq)
 
+## Lab 10
+
+### TCGA exploration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzJ8pHqw53k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### LIMMA on microarray data
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4E0p2cujcHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Survival analysis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkt8VG1B0CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
