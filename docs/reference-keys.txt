@@ -204,12 +204,11 @@ tcga-exploration
 limma-on-microarray-data
 survival-analysis-1
 cancerimmuno2
-tcr-analysis
-bcr-analysis
-microbiome
-immunotherapy-response-biomarkers
-targeted-therapy-as-immune-modulators
-epigenetic-therapy-as-immune-modulators
+b-cell-receptor-repertoires-in-tumors
+t-cell-activation-and-dysfunction
+nk-cells-and-macrophages-in-tumor-immunity
+cancer-immunotherapy-response-biomarkers
+improving-immunotherapy-response
 crispr
 crispr-and-ko
 crispra-and-crispri
