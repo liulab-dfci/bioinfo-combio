@@ -1,33 +1,17 @@
 # CRISPR Screens {#crispr}
 
-## CRISPR and KO
+## Introduction to CRISPR and CRISPR Screens
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WbdxL1MXOuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jRgv8oSIybo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CRISPRa and CRISPRi
+## Computational Resources for CRISPR and Screens
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpCbjviLCIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Cancer Cell Vulnerability from CRISPR Screens
 
-## CRISPR design and outcome
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SKiumJVc5xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WbdxL1MXOuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Immune Related CRISPR Screens
 
-## CRISPR screens & DepMap
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WbdxL1MXOuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## CRISPR screen analysis
-
-
-
-## CRISPR screens in drug response
-
-
-## CRISPR screens in immunology
-
-
-
-## Enhancer CRISPR screen
-
-
-## CRISPR screens + scRNA-seq
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41ouR21IOU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
