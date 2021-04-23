@@ -218,6 +218,7 @@ introduction-to-crispr-and-crispr-screens
 computational-resources-for-crispr-and-screens
 cancer-cell-vulnerability-from-crispr-screens
 immune-related-crispr-screens
+depmap-tutorial
 m4re
 module-iv-review
 course-review

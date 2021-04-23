@@ -15,3 +15,7 @@
 ## Immune Related CRISPR Screens
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41ouR21IOU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Depmap tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1knIFBXY9g0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
