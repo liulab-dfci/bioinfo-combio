@@ -221,4 +221,6 @@ immune-related-crispr-screens
 depmap-tutorial
 m4re
 module-iv-review
-course-review
+final-course-review
+final-exam-preparations
+levels-of-bioinformatics-and-preparing-for-the-future
