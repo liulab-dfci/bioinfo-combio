@@ -34,7 +34,7 @@ With more and more sequences available in the public in the 1980s, scientists we
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge00nXqIlow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Borrow-Wheeler Aligner (many with many)
+## Burrows-Wheeler Aligner (many with many)
 
 With NGS, scientists need much faster search (aka mapping) algorithms in order to align the millions of sequences to the reference genome. The current best algorithm is called Borrow-Wheeler Aligner or BWA. 
 
