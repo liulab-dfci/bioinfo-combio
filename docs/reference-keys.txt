@@ -22,7 +22,7 @@ three-generations-of-sequencing-technologies
 fastq-and-fastqc
 early-sequence-alignment-1-with-1
 sequence-search-algorihtms-1-with-many
-borrow-wheeler-aligner-many-with-many
+burrows-wheeler-aligner-many-with-many
 alignment-output
 rnaseq
 introduction-to-rna-seq-experiment
@@ -129,7 +129,7 @@ hmm-forward-backward-algorithm
 viterbi-algorithm
 baum-welch-algorithm-intuition
 hmm-bioinformatics-applications
-Hic
+HiC
 introduction-to-chromatin-interaction-and-organization
 methods-to-investigate-3d-genome-organization
 topologically-associating-domains
